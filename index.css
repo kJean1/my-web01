@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(124, 201, 243);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+div .videoContainer{
+
+}
